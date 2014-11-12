@@ -19,6 +19,8 @@
     // Do any additional setup after loading the view, typically from a nib.
     NSLog(@"第一个分支");
     NSLog(@"第二个分支");
+    NSLog(@"提交一次");
+   
 }
 
 - (void)didReceiveMemoryWarning {
