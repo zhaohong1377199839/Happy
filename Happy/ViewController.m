@@ -21,6 +21,8 @@
     NSLog(@"第二个分支");
     NSLog(@"提交一次");
     NSLog(@"提交第二次");
+    
+    NSLog(@"提交第三次");
 }
 
 - (void)didReceiveMemoryWarning {
